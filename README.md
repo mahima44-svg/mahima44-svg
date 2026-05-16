@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hey there! 👋
 
-<!--
-**mahima44-svg/mahima44-svg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Mahima, a computer science student in India.
 
-Here are some ideas to get you started:
+I love bridging the gap between clean code and aesthetics — turning creative ideas into functional websites.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+My main tech stack🛠️ is Python, Java(basics), c, Html, DBMS(basics). My favorite tools🧩 are figma, VS code, Github
+
+✨ I believe in Code • Creativity • Continuous Learning 🚀
+
+🌱Current Journey:
+
+👩‍💻 Contributing through open-source learning programs
+
+🌐 Building personal projects to strengthen development skills
+
+🤖 Exploring AI-assisted workflows for productivity and creativity
+
+📚 Growing step by step through practical learning and experimentation
+
+✨ Always learning, always building.
