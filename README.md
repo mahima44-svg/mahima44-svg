@@ -4,7 +4,7 @@ I'm Mahima, a computer science student in India.
 
 I love bridging the gap between clean code and aesthetics — turning creative ideas into functional websites.
 
-My main tech stack🛠️ is Python, Java(basics), c, Html, DBMS(basics). My favorite tools🧩 are figma, VS code, Github
+My main tech stack🛠️ is Python, Java(basics), c, Html. My favorite tools🧩 are VS code, Github
 
 ✨ I believe in Code • Creativity • Continuous Learning 🚀
 
